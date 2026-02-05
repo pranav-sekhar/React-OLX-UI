@@ -7,3 +7,5 @@
 - Navigation bar with categories
 - Responsive design
 - Clean and minimal UI styling
+
+![Output](op.png)
