@@ -1,4 +1,4 @@
-# OLX - LIKE UI
+# OLX - Like Marketplace UI (React)
 
 ## Features
 
